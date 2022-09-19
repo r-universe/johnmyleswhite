@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "log4r",
+    "oncran": true
+  }
+]
